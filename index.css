@@ -586,7 +586,7 @@ body {
 
 .social-icon-img:hover {
     transform: scale(1.2);
-    box-shadow: 0 1px 10px var(--color-highlight);
+    /* box-shadow: 0 1px 10px var(--color-highlight); */
 }
 
 
